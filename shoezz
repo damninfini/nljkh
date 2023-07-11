@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="ru"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,7 +40,7 @@ font-size: 20px;
 <header class="header">
 <div class="cont">
 <div class="logo">
-<img class="logoi" width="200" height="150" src="C:\Users\инфини\Desktop\shoezzz\img\gay.png">
+<img class="logoi" width="200" height="150" src="C:\Users\инфини\Desktop\shoezzz\img\spotee.png">
 <h1 class="logoh">infini's shoes Top</h1>
 </div>
 <div class="menu">
