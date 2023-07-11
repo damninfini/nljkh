@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -73,7 +73,7 @@ font-size: 20px;
 <div class="contai">
 <div class="card-row">
 <div class="card">
-<img class="imgca" src="asics.jpg"> 
+<img class="imgca" src="/asics.jpg"> 
 <div class="cardbo">
 <h3 class="cardte" style="margin-left: 75px;">ASICS GEL 1130</h3>
 </div>
@@ -86,7 +86,7 @@ font-size: 20px;
     <div class="contai">
     <div class="card-row">
     <div class="card">
-    <img class="imgca" src="adidas.jpg"> 
+    <img class="imgca" src="/adidas.jpg"> 
     <div class="cardbo">
     <h3 class="cardte">ADIDAS CAMPUS 80s x SOUTH PARK</h3>
     </div>
