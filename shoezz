@@ -29,7 +29,7 @@ font-size: 20px;
 	justify-content:center;
         flex-direction: row;}
 
-.footer{background-image: url(dayn.png); text-align: center; font-size: 22px; background-size: cover; padding: 125px 0px;}        
+.footer{background-image: url(shoezzz/dayn.png); text-align: center; font-size: 22px; background-size: cover; padding: 125px 0px;}        
 </style>
 
 
@@ -73,7 +73,7 @@ font-size: 20px;
 <div class="contai">
 <div class="card-row">
 <div class="card">
-<img class="imgca" src="/asics.jpg"> 
+<img class="imgca" src="shoezzz/asics.jpg"> 
 <div class="cardbo">
 <h3 class="cardte" style="margin-left: 75px;">ASICS GEL 1130</h3>
 </div>
@@ -86,7 +86,7 @@ font-size: 20px;
     <div class="contai">
     <div class="card-row">
     <div class="card">
-    <img class="imgca" src="/adidas.jpg"> 
+    <img class="imgca" src="soezzz/adidas.jpg"> 
     <div class="cardbo">
     <h3 class="cardte">ADIDAS CAMPUS 80s x SOUTH PARK</h3>
     </div>
