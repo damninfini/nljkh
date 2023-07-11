@@ -40,7 +40,7 @@ font-size: 20px;
 <header class="header">
 <div class="cont">
 <div class="logo">
-<img class="logoi" width="200" height="150" src="shoezzz/img/gay.png">
+<img class="logoi" width="200" height="150" src="C:\Users\инфини\Desktop\shoezzz\img\gay.png">
 <h1 class="logoh">infini's shoes Top</h1>
 </div>
 <div class="menu">
@@ -73,7 +73,7 @@ font-size: 20px;
 <div class="contai">
 <div class="card-row">
 <div class="card">
-<img class="imgca" src="shoezzz/img/asics.jpg"> 
+<img class="imgca" src="C:\Users\инфини\Desktop\shoezzz/img/asics.jpg"> 
 <div class="cardbo">
 <h3 class="cardte" style="margin-left: 75px;">ASICS GEL 1130</h3>
 </div>
@@ -86,7 +86,7 @@ font-size: 20px;
     <div class="contai">
     <div class="card-row">
     <div class="card">
-    <img class="imgca" src="soezzz/img/adidas.jpg"> 
+    <img class="imgca" src="C:\Users\инфини\Desktop\shoezzzimg\adidas.jpg"> 
     <div class="cardbo">
     <h3 class="cardte">ADIDAS CAMPUS 80s x SOUTH PARK</h3>
     </div>
